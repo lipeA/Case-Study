@@ -13,4 +13,4 @@ Projeto com o proposito de trabalhar com Next.js junto com TailwindCSs. Neste pr
 
 
 ## Demo
-
+<img src="https://github.com/lipeA/Case-Study/blob/126b69148239a617d2d9d025833bb7da097d6cf3/screencapture-localhost-3000-2024-03-26-18_08_30.png" alt="Pagina inicial"/>
